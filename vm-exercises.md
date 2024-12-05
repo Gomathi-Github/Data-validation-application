@@ -8,8 +8,8 @@
 
 #### Files
 
-- [x] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix` or `ex-1-initial.yxmd`, depending if you are auditioning for a Tableau/Power BI/Alteryx course.
-- [x] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix` or `ex-1-sol.yxmd`
+- [x] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.xlsx` and `ex-2-intial.xlsx`.
+- [x] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.xlsx` and `ex-2-sol.xlsx`
 
 #### Learning Objective
 
